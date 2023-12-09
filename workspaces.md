@@ -47,8 +47,8 @@ daytona Create
 
 ### Accessing Workspace
 - **Open in IDE** Click on the Workspace name to open it in the defualt IDE
-- **SSH Connection**: Securely connect to your workspace via SSH using a public key or an access token.
-- **Workspace Manupulation**: Clicking on the expanded menu of a workspace `...` Easily stop or delete workspaces. Deletion requires retypoing the name to confirm for security.
+- **SSH Connection**: Securely connect to your workspace via SSH using a public key or an access token, by clicking on `Connect via SSH`
+- **Workspace Manupulation**: Clicking on the expanded menu of a workspace `...` Easily `Stop` or `Delete` workspaces. Deletion requires retypoing the name to confirm for security.
 - **Workspace Status**:color-coded: green for started, purple for starting, red for stopped.
 - **Workspace Status**: Linked Git repository and branch information can be found below every Worksapce's name
 
@@ -57,6 +57,6 @@ daytona Create
 Information that can be found hitting the expanded view of a workspace
 - **Pin Workspaces**: Pin frequently used workspaces for quick access.
 - **Changing IDE**: IF you would like to open the Workspace in a different IDE that set by default, click `Open` to Switch between different IDEs for opening your workspace.
-- **Workspace Creation Date**: To find the time and date of creation, click on Info.
+- **Workspace Creation Date**: To find the time and date of creation, click on `Info`.
 
 
