@@ -15,9 +15,10 @@ Daytona workspaces simplify the setup and configuration of development environme
 ## Creating Workspaces
 
 ### Creation Process
-1. **Starting Creation**: Click 'Create' to import a project from a repository.
-2. **Importing Projects**: You will be prompted to import a project from your Git provider (GitHub, GitLab, Bitbucket).
+1. **Starting Creation**: Click `Create` to import a project from a repository.
+2. **Importing Projects**: To set up a workspace using an existing repository in Daytona, will be prompted to import a project from your Git provider (GitHub, GitLab, Bitbucket) which you can select from the drop-down menu. You will find your own repositories as well as those from organizations you are part of.
 3. **Using Public Repositories**: Alternatively, enter a public URL to a repository you have access to.
+4. **Templates**: If you are starting a new project or prefer to use a template, Daytona provides a variety of templates in different programming languages, each with sample projects to help you kickstart your development.
 4. **Initiating Workspace**: After selecting the repository, clicking 'Create' begins the workspace setup process.
 
 ### Creation States
